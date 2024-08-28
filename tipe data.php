@@ -4,7 +4,7 @@
 $jenis_kelamin = 'L';
 
 // tipe data string (teks)
-$nama_lengkap = "rian";
+$nama_lengkap = "ilham";
 
 // tipe data integer
 $umur = 16;

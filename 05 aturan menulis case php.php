@@ -1,7 +1,7 @@
 <?php
 
 $nama = "muhammad ilham";
-$NAMA = "ilham";
+$NAMA = "ilhaMMM";
 $umur = 16;
 const INI_KONSTANTA = 123;
 $ini_variabel = 30;
